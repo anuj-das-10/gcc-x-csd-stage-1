@@ -22,6 +22,9 @@ export default function Home() {
           <Link href='/login_as'>
             <button className='bg-blue-300 p-2 rounded-md hover:bg-blue-800 hover:text-white'>Log-in / Register</button>
           </Link>
+          <Link href='/forms/alumni_form'>
+            <button className='bg-blue-300 p-2 rounded-md hover:bg-blue-800 hover:text-white'>Alumni Registration</button>
+          </Link>
       </main>
     </>
   )
