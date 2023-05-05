@@ -26,7 +26,7 @@ const Navbar = () => {
             <Link href='/'>
                 <li className='hover:border-b-2 hover:border-purple-600'>CSxEventBlog</li>
             </Link>
-            <Link href='/'>
+            <Link href='/alumni'>
                 <li className='hover:border-b-2 hover:border-purple-600'>CSxAlumni</li>
             </Link>
             <Link href='/'>

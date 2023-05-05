@@ -7,3 +7,5 @@ export { default as Navbar } from './Navbar';
 export { default as OccupationAlumniForm } from './OccupationAlumniForm';
 export { default as PGAlumniForm } from './PGAlumniForm';
 export { default as SocialMediaAlumniForm } from './SocialMediaAlumniForm';
+
+export { default as AlumniComponent } from './AlumniComponent';
